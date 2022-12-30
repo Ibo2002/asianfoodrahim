@@ -1,0 +1,13 @@
+.textsize{
+  font-size: 50px;
+}
+
+#qr{
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 500px;
+  top: -60px;
+;
+}
+
